@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: bisque;
+}
+
+h3:hover{
+  color: blue;
+}
+
+h1,h3{
+  text-align: center;
 }
 
 code {
